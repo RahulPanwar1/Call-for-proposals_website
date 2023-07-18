@@ -1,0 +1,15 @@
+.login{
+  padding-top: 30px;
+}
+
+.signIn{
+  margin: auto;
+  padding-top: 200px;
+  text-align: center;
+}
+
+.button{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}

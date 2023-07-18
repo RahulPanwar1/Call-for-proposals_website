@@ -1,0 +1,43 @@
+.main{
+    margin: auto;
+    padding-top: 55px;
+    font-family:'Archivo Narrow';
+}
+
+.about{
+    padding-left: 50px;
+    margin-bottom: -10px;
+}
+
+.line{
+    width: 92%;
+    margin: 0 auto;
+    background-color: #000000;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 92%;
+    margin: 0 auto;
+    padding-top: 10px;
+    }
+
+    .text {
+    flex: 1;
+    padding-right: 0px;
+    }
+
+    .image {
+    flex: 1;
+    text-align: right;
+    }
+
+    .image img {
+    max-width: 100%;
+    width: 78%;
+    height: auto;
+    margin: auto;
+    }
