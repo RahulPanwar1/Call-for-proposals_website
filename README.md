@@ -17,7 +17,7 @@ This is a professional REACT application designed to streamline the process of a
 - Clone the repository using:
 
 ```
-git clone git@github.com:rajkmeena/cphub.git
+git clone git@github.com:RahulPanwar1/Call-for-proposals_website.git
 ```
 
 - To Ensure the backend run properly
@@ -97,4 +97,4 @@ This application features an example Proposals webpage using a Crawler, Scraper,
 
 ## Links
 
-- [Github Link](https://github.com/rajkmeena/cphub.git)
+- [Github Link](https://github.com/RahulPanwar1/Call-for-proposals_website)
