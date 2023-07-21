@@ -2,7 +2,7 @@
 
 ## Description:
 
-This is a professional REACT application designed to streamline the process of accessing call for proposals data. Our platform offers users a sleek and user-friendly homepage where they can discover major sites, stay updated with the latest news, access a vast collection of available proposals, and securely log in using their Google account. By creating an account or logging in, users gain the ability to search for call for proposals from various sources across the internet.
+This is a professional React application designed to streamline the process of accessing call for proposals data. Our platform offers users a sleek and user-friendly homepage where they can discover major sites, stay updated with the latest news, access a vast collection of available proposals, and securely log in using their Google account. By creating an account or logging in, users gain the ability to search for call for proposals from various sources across the internet.
 
 ## Table of Contents
 
