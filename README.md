@@ -46,7 +46,7 @@ cd .\backend\crawler\crawler\spiders
 scrapy runspider crawling_spider.py
 ```
 
-- Ensure to make the scrapped data an api
+- Make sure to make the scrapped data an api
 - From main directory
 
 ```
@@ -64,7 +64,7 @@ cd .\frontend\cphub\
 
 
 - Ensure you are in the current working directory
-- Ensure all dependencies are installed using an npm install:
+- Make sure all dependencies are installed using an npm install:
 
 ```
 npm i
